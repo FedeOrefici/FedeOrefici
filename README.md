@@ -1,13 +1,13 @@
 ### Hi there 👋
 ___________________________________________________________________
 I´m Federico, React - Node Full Stack Developer & Graphic Designer.
-🔢 Javascript,
-🔢 React,
-🔢 Redux,
-🔢 Express,
-🔢 Sequelize,
-🔢 PostgreSQL,
-🔢 Html,
+🔢 Javascript
+🔢 React
+🔢 Redux
+🔢 Express
+🔢 Sequelize
+🔢 PostgreSQL
+🔢 Html
 🔢 Css
 -----------------
 Design: 

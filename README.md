@@ -1,6 +1,5 @@
-### Hi there 👋
+### Hi there 👋 I´m Federico, React - Node Full Stack Developer & Graphic Designer.
 ___________________________________________________________________
-I´m Federico, React - Node Full Stack Developer & Graphic Designer.
 🔢 Javascript
 🔢 React
 🔢 Redux

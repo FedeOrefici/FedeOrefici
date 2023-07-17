@@ -8,6 +8,7 @@ ___________________________________________________________________
 🔵 PostgreSQL
 🟠 Html
 🔴 Css
+🔵 MongoDb
 -----------------
 ✏️ Design: Figma, Ilustrator, Photoshop
 

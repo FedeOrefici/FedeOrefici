@@ -4,7 +4,6 @@ Full Stack Developer. React - Node || Graphic Designer. passion for programming 
 
 Contact me:
  📨 gmail : federicoaorefici@gmail.com
- 🖥 git hub : https://github.com/FedeOrefici
 ___________________________________________________________________
 🟡 Javascript
 🔵 React

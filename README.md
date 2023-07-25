@@ -14,6 +14,10 @@ ___________________________________________________________________
 🟠 Html
 🔴 Css
 🔵 MongoDb
+🟠 Tailwind
+🟡 Material Ui
+🟣 Chakra
+🔵 Mongoose
 -----------------
 ✏️ Design: Figma, Ilustrator, Photoshop
 

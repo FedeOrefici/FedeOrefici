@@ -17,6 +17,7 @@ ___________________________________________________________________
 🟠 Tailwind
 🟡 Material Ui
 🟣 Chakra
+🟡 Styled Components
 🔵 Mongoose
 -----------------
 ✏️ Design: Figma, Ilustrator, Photoshop
